@@ -1,0 +1,21 @@
+MODEL EVALUATION RESULTS
+========================================
+
+Task       : Genre
+Accuracy   : 81.87%
+Precision  : 0.8443
+Recall     : 0.8187
+F1-score   : 0.8202
+----------------------------------------
+Task       : Mood
+Accuracy   : 60.39%
+Precision  : 0.7897
+Recall     : 0.6039
+F1-score   : 0.6
+----------------------------------------
+Task       : Gender
+Accuracy   : 97.76%
+Precision  : 0.9777
+Recall     : 0.9776
+F1-score   : 0.9776
+----------------------------------------

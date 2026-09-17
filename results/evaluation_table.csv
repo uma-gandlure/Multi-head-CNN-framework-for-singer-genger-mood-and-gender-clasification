@@ -1,0 +1,4 @@
+Task,Accuracy,Precision,Recall,F1-score
+Genre,81.87,0.8443,0.8187,0.8202
+Mood,60.39,0.7897,0.6039,0.6
+Gender,97.76,0.9777,0.9776,0.9776
